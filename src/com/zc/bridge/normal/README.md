@@ -1,0 +1,5 @@
+业务需求为API告警信息
+Alert 类存放告警信息
+AlertRule 保存每个请求的规则，通过配置读取每个api的情况
+Notification 负责通知，根据不同的严重程度采取不同的措施
+Rule表示规则
