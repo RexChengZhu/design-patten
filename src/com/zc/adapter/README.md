@@ -49,4 +49,4 @@ public class Adapter implements FuncB{
 ```
 
 ## 使用场景
-
+log4j切换
